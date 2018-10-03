@@ -18,27 +18,27 @@ The following documentation covers the details of implementation of the followin
 
 ### 1. Tree
 
-<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/tree.png"/ width = 500 height = 350>
+<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/tree.png" width = 500 height = 350/>
 
 ### 2. Circle
 
-<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/circlefractal.png"/  width = 500 height = 450>
+<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/circlefractal.png"  width = 500 height = 450/>
 
 ### 3. Dream Eater
 
-<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/dreamEater.png"/ width = 450 height = 400>
+<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/dreamEater.png" width = 450 height = 400/>
 
 ### 4. Ying Yang
 
-<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/yingYang.png"/ width = 350 height = 350>
+<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/yingYang.png" width = 350 height = 350/>
 
 ### 5. KochSet
 
-<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/kochCurve.jpg"/ width = 500 height = 300>
+<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/kochCurve.jpg" width = 500 height = 300/>
 
 ### 6. Julia Set
 
-<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/juliaSet.png"/ width = 500 height = 300>
+<img src="https://github.com/guru-raj/documentation_assignment1/blob/master/juliaSet.png" width = 500 height = 300/>
 
 
 ### Project Contributers

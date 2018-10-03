@@ -1,12 +1,15 @@
 # IS F311 - Computer Graphics
 ## Assignment 1 Documentation
 The following documentation covers the details of implementation of the following:
-- Mid - point Line drawing algorithm using bresenham's algorithm
-- Mid - point Circle drawing algorithm using bresenham's algorithm
+- Mid - point Line drawing algorithm
+- Mid - point Circle drawing algorithm
 - Various Fractals implemented using Lines and Circles
 
 
 ## 1.Mid - point Line drawing
+- The line is drawn using Bresenham's Mid-point line drawing algorithm. In this algorithm the line is drawn using two points P(h0,k0) and Q(h1,k1). Since calulation of the slope involves division operation, to overcome the overhead we make use of implicit equation of the line.
+
+- The algorithm devised takes care of the slope condition. If it is within the bounds of +/- 1, the increment is in x direction and the y coordinate is estimated, else the increment is along the y direction
 
 <img src="https://github.com/guru-raj/documentation_assignment1/blob/master/line.png" width = 350 height = 350/>
 

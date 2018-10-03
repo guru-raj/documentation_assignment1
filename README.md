@@ -8,6 +8,9 @@ The following documentation covers the details of implementation of the followin
 
 ## 1.Mid - point Line drawing
 ## 2.Mid - point Circle drawing
+
+![alt text][https://github.com/guru-raj/documentation_assignment1/blob/master/circle.png]
+
 ## 3.Fractals
 ## -
 

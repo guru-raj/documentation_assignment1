@@ -15,5 +15,5 @@ The following documentation covers the details of implementation of the followin
 |Name             |ID number    |
 |-----------------|-------------|
 |Guru Raj Vaishnav|2015AAPS0255H|
-|Krishna Bharadwaj|2015A7PS0H|
-|Suraj L
+|Krishna Bharadwaj|2015A7PS0076H|
+|Suraj Loungani   |2016A7PS0053H|
